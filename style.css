@@ -1,4 +1,4 @@
-@media (hover:hover) {
+@media (hover: hover) {
     *{
         margin: 0;
         padding:  0;
@@ -139,3 +139,4 @@
         transition-delay: 0.25s;
     }
 }
+
